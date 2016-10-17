@@ -1,4 +1,4 @@
-from TkInter import *
+from Tkinter import *
 from math import sin, cos
 width = 640
 height = 480
